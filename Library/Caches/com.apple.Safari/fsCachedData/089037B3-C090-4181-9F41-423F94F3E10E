@@ -1,0 +1,59 @@
+{
+
+var google_ads = new Array();
+var google_ad;
+var google_radlinks = new Array();
+var google_radlink;
+var google_info = new Object();
+google_ad = {}; 
+google_ad.n = 1; 
+google_ad.type = "text"; 
+google_ad.bidtype = "CPC"; 
+google_ad.targeting_type = "contextual"; 
+google_ad.url = "http://googleads.g.doubleclick.net/aclk?sa=l&amp;ai=CC5Uacu-PU67jFNOuuASLnYHQDYb0r9AExpOG54EBwI23ARABIO6VpxIoA1CUnsfLBWDl0uaDvA6gAZLyy9gDyAEBqQKZ5v_txiRSPqgDAaoEgwFP0CDmuO_GVqIt6eLbyaAJSxCaB9HLpzw_kJvtlOICFnsqM6uD4LLHjDmlaqJrISlkFjunGc3N6jJCV-AdcXUb9s5DS6C01VxxVSBGPWcrcyGv__y6UDK2V423sw15g9WwoFeTtdc30PYknDC--l615Vx9qAAKbDx6oo6wUrSGtopLq4AH1o20Jw&amp;num=1&amp;sig=AOD64_15Odd5IPiDpJbjSX2lEQSNSTP5ew&amp;client=ca-toi_site_js&amp;adurl=http://www.tatahousing.in/riva/index.php%3Fadunit%3Dtext%26refsite%3Dgoogle%26channel%3DCPC%26campaign%3DRiva_Search"; 
+google_ad.visible_url = "tatahousing.in/Riva"; 
+google_ad.log_info = "BBij2cu-PU67jFNOuuASLnYHQDQDGk4bngQEAABABOAHIAQGoE4AB";
+google_ad.activeview_js_immediate_enabled = "true";
+google_ad.line1 = "Book a Tata Home @ 30,000"; 
+google_ad.line2 = "Retirement Homes at Bangalore by"; 
+google_ad.line3 = "TataHousing. Hurry, Few Units Left!"; 
+google_ad.regionname = ""; 
+google_ads[0] = google_ad; 
+google_ad = {}; 
+google_ad.n = 2; 
+google_ad.type = "text"; 
+google_ad.bidtype = "CPC"; 
+google_ad.targeting_type = "contextual"; 
+google_ad.url = "http://googleads.g.doubleclick.net/aclk?sa=l&amp;ai=Ceqz9cu-PU67jFNOuuASLnYHQDaWMhJQFvavSw6cB1dOh6QEQAiDulacSKANQrKP59_r_____AWDl0uaDvA6gAcPYs94DyAEBqAMBqgR_T9Ag1y_23G-an1r4tNSkAV0MkwjWwao0cNec55nqFwt_IiX2zuywcFcb7naib2s8ZE0moxHb0eM9RV3tFT4yHPzDS169sN1KLBgsRH-Aqeyd1sKSNQEutlfAk7MN4mg-o1a8kKUiNCX1BJzFvS9dtbWpfl1TCmzPe0KIW5aaooAHpafMIQ&amp;num=2&amp;sig=AOD64_1q11uNBY_ocxdmm-pJRyDH-_PUUA&amp;client=ca-toi_site_js&amp;adurl=http://www.junglee.com/mn/search/junglee/ref%3Dnav_sb_noss%3Ftag%3Dgoogjudisptablettop10-21%26url%3Dnode%253D803574031%26field-keywords%3DLenovo%2BIdeatab%2BA%2B3000"; 
+google_ad.visible_url = "www.junglee.com"; 
+google_ad.log_info = "BBij2cu-PU67jFNOuuASLnYHQDQDGk4bngQEAABABOAHIAQGoE4AB";
+google_ad.activeview_js_immediate_enabled = "true";
+google_ad.line1 = "Lenovo Ideatab A 3000"; 
+google_ad.line2 = "Lenovo A 3000 Starting from"; 
+google_ad.line3 = "Rs. 8,150. Order Online Now!"; 
+google_ad.regionname = ""; 
+google_ads[1] = google_ad; 
+google_ad = {}; 
+google_ad.n = 3; 
+google_ad.type = "text"; 
+google_ad.bidtype = "CPC"; 
+google_ad.targeting_type = "contextual"; 
+google_ad.url = "http://googleads.g.doubleclick.net/aclk?sa=l&amp;ai=CFnQDcu-PU67jFNOuuASLnYHQDaOkypkFs5u94IgBwI23ARADIO6VpxIoA1CVi9Oi-v____8BYOXS5oO8DqABp6G75gPIAQGpApnm_-3GJFI-qAMBqgSGAU_QEJaY5sZUoi3p4tvJoAlLEJoH0cunPD-Qm-2U4gIWeyozq4PgsseMOaVqomshKWQWO6cZzc3qMkJX4B1xdRv2zkNLoLTVXHFVIEY9Z1NwIef_e_7WsvWwaHhY28ZoPiugV5OmyjfAAyecxb3aq7bFqX6opQlsmXmie7VQVIZChPhmVQpegAfB3sQZ&amp;num=3&amp;sig=AOD64_3XcDsBYbwPIsMhycClPu4ZUJ-2Bw&amp;client=ca-toi_site_js&amp;adurl=http://www.sleekworld.com/free-catalog-2/"; 
+google_ad.visible_url = "www.sleekworld.com"; 
+google_ad.log_info = "BBij2cu-PU67jFNOuuASLnYHQDQDGk4bngQEAABABOAHIAQGoE4AB";
+google_ad.activeview_js_immediate_enabled = "true";
+google_ad.line1 = "Free Kitchen Catalog 2014"; 
+google_ad.line2 = "New Colors, Amazing Designs \x26amp; More."; 
+google_ad.line3 = "Grab Your Free Copy Today!"; 
+google_ad.regionname = ""; 
+google_ads[2] = google_ad; 
+google_info.feedback_url = "https://www.google.com/url?ct\x3dabg\x26q\x3dhttps://www.google.com/adsense/support/bin/request.py%3Fcontact%3Dabg_afc%26url%3Dhttp://timesofindia.indiatimes.com/%26gl%3DIN%26hl%3Den%26client%3Dca-toi_site_js%26hideleadgen%3D1%26ai0%3DCC5Uacu-PU67jFNOuuASLnYHQDYb0r9AExpOG54EBwI23ARABIO6VpxIoA1CUnsfLBWDl0uaDvA6gAZLyy9gDyAEBqQKZ5v_txiRSPqgDAaoEgwFP0CDmuO_GVqIt6eLbyaAJSxCaB9HLpzw_kJvtlOICFnsqM6uD4LLHjDmlaqJrISlkFjunGc3N6jJCV-AdcXUb9s5DS6C01VxxVSBGPWcrcyGv__y6UDK2V423sw15g9WwoFeTtdc30PYknDC--l615Vx9qAAKbDx6oo6wUrSGtopLq4AH1o20Jw%26ai1%3DCeqz9cu-PU67jFNOuuASLnYHQDaWMhJQFvavSw6cB1dOh6QEQAiDulacSKANQrKP59_r_____AWDl0uaDvA6gAcPYs94DyAEBqAMBqgR_T9Ag1y_23G-an1r4tNSkAV0MkwjWwao0cNec55nqFwt_IiX2zuywcFcb7naib2s8ZE0moxHb0eM9RV3tFT4yHPzDS169sN1KLBgsRH-Aqeyd1sKSNQEutlfAk7MN4mg-o1a8kKUiNCX1BJzFvS9dtbWpfl1TCmzPe0KIW5aaooAHpafMIQ%26ai2%3DCFnQDcu-PU67jFNOuuASLnYHQDaOkypkFs5u94IgBwI23ARADIO6VpxIoA1CVi9Oi-v____8BYOXS5oO8DqABp6G75gPIAQGpApnm_-3GJFI-qAMBqgSGAU_QEJaY5sZUoi3p4tvJoAlLEJoH0cunPD-Qm-2U4gIWeyozq4PgsseMOaVqomshKWQWO6cZzc3qMkJX4B1xdRv2zkNLoLTVXHFVIEY9Z1NwIef_e_7WsvWwaHhY28ZoPiugV5OmyjfAAyecxb3aq7bFqX6opQlsmXmie7VQVIZChPhmVQpegAfB3sQZ\x26usg\x3dAFQjCNEK0PdJlm9TvlDSD9vYjBwEIgEOTw";
+var google_attribution_text = "AdChoices";
+var google_is_rtl = false;
+if (window.google_ad_request_done) {
+google_ad_request_done(google_ads);
+}
+if (window.google_radlink_request_done) {
+google_radlink_request_done(google_radlinks);
+}
+}

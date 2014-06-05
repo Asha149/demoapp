@@ -1,0 +1,10 @@
+For Apple Internal Use Only; Not for Disclosure/Distribution Outside of Apple.
+
+[ERROR]       ce8b47a6d0 [14/06/05 08:33:22.245]  530.main copy_mme_bag:196 copyPreferredMobileMeName failed
+[ERROR]       ce8b4dcb6d [14/06/05 08:33:22.245]  530.main ubd_main:3055 null personid
+[ERROR]       ce8b4f8a5b [14/06/05 08:33:22.245]  530.main UBRmdirRecursive:831 unlink(/Users/asha/Library/Application Support/Ubiquity/peer-FFFFFFFF-FFFF-FFFF-FFFF-FFFFFFFFFFFF-v24): No such file or directory
+[ERROR]       ce9047ac02 [14/06/05 08:33:22.329]  530.main db_prepare_blocking:1382 conn#0 active (create|first-open|in-txn|for-update|can-rollback), owner:main, retains:1, changes:0-0 can't prepare 'select max(local_rank) from item_table;': db error 1 (no such table: item_table)
+[ERROR]       ce9047f4b3 [14/06/05 08:33:22.329]  530.main iidb_has_schema:5691 failed to prepare 'select max(local_rank) from item_table;'
+[ERROR]       ce907410b1 [14/06/05 08:33:22.332] {FFFFFFFF} 530.main copy_mme_bag:196 copyPreferredMobileMeName failed
+[warn]        ce90acfd2d [14/06/05 08:33:22.335] {FFFFFFFF} 530.main set_computer_name:103 Not setting the computer name without a collection/config only mode
+[ERROR]       ce90bc8cfa [14/06/05 08:33:22.336] {FFFFFFFF} 530.default-queue get_collection_status:283 no collection config found for default

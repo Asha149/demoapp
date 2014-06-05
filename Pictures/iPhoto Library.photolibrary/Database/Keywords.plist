@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>keywords</key>
+	<array>
+		<dict>
+			<key>modelId</key>
+			<integer>3</integer>
+			<key>name</key>
+			<string>Family</string>
+			<key>uuid</key>
+			<string>TITR%KJsQKywG+DN2XH5mQ</string>
+		</dict>
+		<dict>
+			<key>modelId</key>
+			<integer>6</integer>
+			<key>name</key>
+			<string>Birthday</string>
+			<key>uuid</key>
+			<string>e2MDkgJaSxqE4fiJXP03vQ</string>
+		</dict>
+		<dict>
+			<key>modelId</key>
+			<integer>2</integer>
+			<key>name</key>
+			<string>Favorite</string>
+			<key>uuid</key>
+			<string>uMi3c06KSeqg33oDyHpJhQ</string>
+		</dict>
+		<dict>
+			<key>modelId</key>
+			<integer>5</integer>
+			<key>name</key>
+			<string>Vacation</string>
+			<key>uuid</key>
+			<string>6a6NwmQlS7u1qefyBbQPYA</string>
+		</dict>
+		<dict>
+			<key>modelId</key>
+			<integer>1</integer>
+			<key>name</key>
+			<string>✔</string>
+			<key>uuid</key>
+			<string>QR1zvD9NSlSfx3PtZAoyfw</string>
+		</dict>
+		<dict>
+			<key>modelId</key>
+			<integer>4</integer>
+			<key>name</key>
+			<string>Kids</string>
+			<key>uuid</key>
+			<string>ZISNvbsiSQi+NXcaLM6epA</string>
+		</dict>
+	</array>
+	<key>keywords_version</key>
+	<integer>7</integer>
+</dict>
+</plist>
